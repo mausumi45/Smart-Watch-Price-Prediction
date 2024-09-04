@@ -1,4 +1,4 @@
-# Smart-Watch-Price-Presdiction
+# Smart-Watch-Price-Prediction
 
 ### About Data :
 
